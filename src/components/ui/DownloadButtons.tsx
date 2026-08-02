@@ -23,7 +23,7 @@ const DownloadButtons: React.FC<DownloadButtonsProps> = ({
       </a>
       
       <a 
-        href="https://shopisbeta.netlify.app/" 
+        href="https://doc-shopis.netlify.app/" 
         className={`inline-flex items-center ${buttonClassName}`}
       >
         <img 
