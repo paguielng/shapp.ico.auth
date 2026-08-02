@@ -175,10 +175,10 @@ const Home: React.FC = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center mb-4 md:mb-0">
               <ShoppingBag className="h-8 w-8 text-blue-400 mr-2" />
-              <span className="text-xl font-bold">ShopisCo.</span>
+              <span className="text-xl font-bold">Shopis.</span>
             </div>
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} ShopisCo. All rights reserved.
+              &copy; {new Date().getFullYear()} Shopis. All rights reserved.
             </p>
           </div>
         </div>
