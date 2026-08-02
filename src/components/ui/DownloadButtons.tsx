@@ -12,7 +12,7 @@ const DownloadButtons: React.FC<DownloadButtonsProps> = ({
   return (
     <div className={`flex flex-col sm:flex-row gap-4 items-center ${className}`}>
       <a 
-        href="#" 
+        href="https://shopisbeta.netlify.app/" 
         className={`inline-flex items-center ${buttonClassName}`}
       >
         <img 
@@ -23,7 +23,7 @@ const DownloadButtons: React.FC<DownloadButtonsProps> = ({
       </a>
       
       <a 
-        href="#" 
+        href="https://shopisbeta.netlify.app/" 
         className={`inline-flex items-center ${buttonClassName}`}
       >
         <img 
